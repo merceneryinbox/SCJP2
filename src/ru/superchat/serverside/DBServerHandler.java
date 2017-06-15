@@ -12,6 +12,7 @@ import java.util.concurrent.Callable;
 import static entries.EntryDic.*;
 
 /**
+*
  * Created by mercenery on 02.06.2017.
  */
 
